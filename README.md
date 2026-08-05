@@ -51,5 +51,7 @@ In this project, I analyzed 𝗔𝗺𝗮𝘇𝗼𝗻 𝗣𝗿𝗶𝗺𝗲 𝗩�
 
 This project helped me strengthen my ability to transform raw entertainment data into meaningful business insights using Power BI.
 
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+
 <img width="800" height="470" alt="1779110219826 (1)" src="https://github.com/user-attachments/assets/d59b99ff-af89-47b1-b7b1-2ab5d1f02ffd" />
 
