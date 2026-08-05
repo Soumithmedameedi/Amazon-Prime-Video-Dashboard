@@ -50,3 +50,6 @@ In this project, I analyzed 𝗔𝗺𝗮𝘇𝗼𝗻 𝗣𝗿𝗶𝗺𝗲 𝗩�
 - Understood content consumption and entertainment industry insights
 
 This project helped me strengthen my ability to transform raw entertainment data into meaningful business insights using Power BI.
+
+<img width="800" height="470" alt="1779110219826 (1)" src="https://github.com/user-attachments/assets/d59b99ff-af89-47b1-b7b1-2ab5d1f02ffd" />
+
